@@ -8,6 +8,7 @@ Bs Software Engineering
 During my internship at USF Pakistan, I had the opportunity to apply my academic knowledge in a professional setting. I worked closely with the data analysis team to analyze and visualize data using Python and Power BI. This experience allowed me to enhance my understanding of data preprocessing, feature engineering, and data visualization techniques.
 
 1 :- Conducted exploratory data analysis (EDA) on real-world datasets to identify patterns and trends.
+
 2 :- Assisted in creating interactive dashboards using Power BI for stakeholders, enhancing data-driven decision-making.
 3 :- Collaborated with team members to optimize SQL queries, improving database performance and efficiency.
 
