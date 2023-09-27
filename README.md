@@ -30,6 +30,9 @@ Customer_Churn_Analysis
 Sales_Performance_DeshBoard
 <img src="Pics/Sales performance deshboard.jpeg">
 
+Shopping Mall Monthly Salrs Analysis
+<img src="Pics/Monthly Sales Analysis.png">
+
 ### Python
 
 SpaceX_Machine_Learning_Prediction
