@@ -21,7 +21,7 @@ During my internship at USF Pakistan, I had the opportunity to apply my academic
 ### PowerBI
 
 Customer_Risk_Analysis
-(/Pics/Risk Analysis.jpeg)
+(Pics/Risk Analysis.jpeg)
 
 Customer_Churn_Analysis
 
