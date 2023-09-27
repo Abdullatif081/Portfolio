@@ -1,11 +1,12 @@
 ****Data Scientist\ Analyst****
 
 **Education**
-*Bs Software Engineering*
 
-###Work Experiance
+Bs Software Engineering
 
-#Data Analysis Intern | USF Pakistan | Summer April 2023 to July 2023
+**Work Experiance**
+
+**Data Analysis Intern | USF Pakistan | Summer April 2023 to July 2023**
 
 During my internship at USF Pakistan, I had the opportunity to apply my academic knowledge in a professional setting. I worked closely with the data analysis team to analyze and visualize data using Python and Power BI. This experience allowed me to enhance my understanding of data preprocessing, feature engineering, and data visualization techniques.
 
