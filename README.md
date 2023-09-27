@@ -1,4 +1,4 @@
-****Data Scientist\ Analyst****
+# Data Scientist\ Analyst
 
 **Education**
 
