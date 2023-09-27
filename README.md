@@ -16,23 +16,26 @@ During my internship at USF Pakistan, I had the opportunity to apply my academic
 
 3 :- Collaborated with team members to optimize SQL queries, improving database performance and efficiency.
 
-###Projects
+**Projects**
 
-##PowerBI
+**PowerBI**
 
-#Customer_Orders_Analysis
+Customer_Orders_Analysis
 
-#Customer_Churn_Analysis
+Customer_Churn_Analysis
 
-#Sales_Performance_DeshBoard
+#ales_Performance_DeshBoard
 
-##Python
+**Python**
 
-#SpaceX_Machine_Learning_Prediction
+SpaceX_Machine_Learning_Prediction
 
-#SpaceX_Lauch_site_location
+SpaceX_Lauch_site_location
 
 
-##SQL
+**SQL**
 
-#EDA_SQL_By_Coursera
+EDA_SQL_By_Coursera
+
+
+
