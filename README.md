@@ -22,7 +22,7 @@ During my internship at USF Pakistan, I had the opportunity to apply my academic
 
 Customer_Risk_Analysis
 
-<img src="Pics/Risk Analysis.png">
+<img src="Pics/Risk Analysis.PNG">
 
 
 Customer_Churn_Analysis
