@@ -1,7 +1,7 @@
-**Data Scientist\ Analyst**
+****Data Scientist\ Analyst****
 
-###Education
-Bs Software Engineering
+**Education**
+*Bs Software Engineering*
 
 ###Work Experiance
 
