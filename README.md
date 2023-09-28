@@ -20,8 +20,8 @@ During my internship at USF Pakistan, I had the opportunity to apply my academic
 
 ### PowerBI
 
-Customer_Churn_Analysis
-<img src="Pics/Risk Analysis.PNG">
+Customer_Churn_Analysis. Who are my churan?
+<img src="Pics/Churan Analysis.PNG">
 
 
 Sales_Performance_DeshBoard
